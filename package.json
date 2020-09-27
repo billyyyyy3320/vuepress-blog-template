@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/theme-blog": "^2.0.0",
-    "vuepress": "^1.0.0"
+    "@vuepress/theme-blog": "^2.3.2",
+    "vuepress": "^1.6.0"
   }
 }
